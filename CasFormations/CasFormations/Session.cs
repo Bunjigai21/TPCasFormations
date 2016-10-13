@@ -40,19 +40,31 @@ namespace Cas formations
 		
 			///<return>void</return>
 		
-			public  void Session( int unNumero ,  Date uneDate ,  int unNb );
+			public Session( int unNumero ,  Date uneDate ,  int unNb)
+    {
+
+    }
 		
 			///<return>int</return>
 		
-			public  int getNumero();
+			public  int getNumero()
+    {
+
+    }
 		
 			///<return>void</return>
 		
-			public  void ajouteParticipant( Participant unParticipant );
+			public  void ajouteParticipant( Participant unParticipant)
+    {
+
+    }
 		
 			///<return>Booléen</return>
 		
-			public  Booléen estPleine(); 	
+			public  Booléen estPleine()
+    {
+
+    } 	
 		 
 		
 
