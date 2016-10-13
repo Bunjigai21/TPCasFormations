@@ -1,0 +1,2 @@
+C:\Users\nicoli.r\Documents\CasFormations\CasFormations\bin\Debug\CasFormations.exe.config
+C:\Users\nicoli.r\Documents\TP Cas Formations\CasFormations\CasFormations\bin\Debug\CasFormations.exe.config
